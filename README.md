@@ -11,11 +11,13 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- :telescope: Участвовал в бассейне Школы 21 от Сбера.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Завершил курсы по веб-разработке Яндекс Практикум!
+- :seedling: Exploring Technical Content Writing.
 
-- :zap: Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-chemechev_andrei-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sombra4743) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
 
