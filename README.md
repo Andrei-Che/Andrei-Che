@@ -5,7 +5,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий ml-engineer <img src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/12/ai-gif.gif" width="30px">. Мой путь в it начался со Яндекс Практикума, где я прошел курс основы Python. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях попробовал свои силы в data science, и меня зацепило ! С апреля 2023 года по октябрь 2023 я изучал ml-engineering на Carpov Curses. В настоящий момент мое обучение на курсе завершено и я нашел свою первую работу!
+Я начинающий ml-engineer <img src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/12/ai-gif.gif" width="30px">. Мой путь в it начался с Яндекс Практикума, где я прошел курс основы Python. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях попробовал свои силы в data science, и меня зацепило! С апреля 2023 года по октябрь 2023 я изучал ml-engineering на Carpov Curses. В настоящий момент мое обучение на курсе завершено и я нашел свою первую работу!
 
 <p align="center">
  <img width="600" src="github-snake.svg" alt="snake"/>
