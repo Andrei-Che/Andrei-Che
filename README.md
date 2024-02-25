@@ -11,13 +11,12 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: Работаю аналитиком данных в НИИ.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Изучение написания технического контента.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: В свободное время решаю задачи на Leetcode и Codewars, читаю технические статьи..
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-chemechev_andrei-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sombra4743) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
 
@@ -92,7 +91,7 @@
 
 ---
 
-<!-- ### 💻 Пройденные курсы:
+ ### 💻 Пройденные курсы:
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
@@ -105,7 +104,6 @@
 | stepik.org/Web-технологии: начальный уровень                    | 01/2023 - 01/2023 |
 | practicum.yandex/Факультет Веб разработки                       | 05/2022 - xx/2023 |
 
---- -->
 
 ### 💻 Codewars:
 
