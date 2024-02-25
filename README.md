@@ -59,7 +59,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 </div>
 
-### <img src="https://as2.ftcdn.net/v2/jpg/00/87/52/33/1000_F_87523378_bMDEkt8T1FL18llxZwePJ2UqVxjJEGGf.jpg" width="30px"> Data Science :
+### <img src="https://cdn-icons-png.freepik.com/256/8649/8649635.png" width="30px"> Data Science :
 <div> 
  <a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="Numpy", height="50"></a>
  <a href="https://www.pandas.org/" target="_blank" rel="noreferrer"><img src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" alt="Pandas", height="50"></a>
